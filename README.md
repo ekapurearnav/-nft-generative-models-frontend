@@ -1,5 +1,5 @@
 # `solana-nft-explorer`
-# EJpLyTeE8XHG9CeREeHd6pr6hNhaRnTRJx4Z5DPhEJJ6
+# Wallet address: EJpLyTeE8XHG9CeREeHd6pr6hNhaRnTRJx4Z5DPhEJJ6
 
 > Lets you explore NFTs of any solana wallet.
 
@@ -7,20 +7,13 @@ This boilerplate is built with [Moralis](https://moralis.io?utm_source=github&ut
 
 Please check the [official documentation of Moralis](https://docs.moralis.io/) for all the functionalities of Moralis.
 
-# ⭐️ `Star us`
-
-If this boilerplate helps you build Ethereum dapps faster - please star this project, every star makes us very happy!
-
-# 🤝 `Need help?`
-
-If you need help with setting up the boilerplate or have other questions - don't hesitate to write in our community forum and we will check asap. [Forum link](https://forum.moralis.io/t/ethereum-boilerplate-questions/3951/86). The best thing about this boilerplate is the super active community ready to help at any time! We help each other.
 
 # 🚀 `Quick Start`
 
 💿 Install all dependencies:
 
 ```sh
-yarn install
+npm install
 ```
 
 ✏ Rename `.env.local.example` to `.env` and provide required data. Get your Web3 Api Key from the [Moralis dashboard](https://admin.moralis.io/):
@@ -30,5 +23,5 @@ yarn install
 🚴‍♂️ Run your App:
 
 ```sh
-yarn start
+npm start
 ```
